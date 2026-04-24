@@ -14,7 +14,11 @@ const responses = [
       '🍎 Apple Podcasts: https://podcasts.apple.com/TU_ID',
   },
   {
-    keywords: ['episodio 1', 'ep1', 'primer episodio'],
+    keywords: ['episodio1', 'ep1', 'primer episodio'],
+    reply: '🎙️ Episodio 1 — [Título del episodio]\n👉 https://tupodcast.com/episodio-1',
+  },
+    {
+    keywords: ['Marce', 'ep1', 'primer episodio'],
     reply: '🎙️ Episodio 1 — [Título del episodio]\n👉 https://tupodcast.com/episodio-1',
   },
   {
