@@ -17,13 +17,10 @@ const responses = [
       '🎧 Spotify: https://open.spotify.com/show/TU_ID\n' +
       '🍎 Apple Podcasts: https://podcasts.apple.com/TU_ID',
   },
-  {
-    keywords: ['episodio1', 'ep1', 'primer episodio'],
-    reply: '🎙️ Episodio 1 — [Título del episodio]\n👉 https://tupodcast.com/episodio-1',
-  },
+ 
     {
     keywords: ['Marce'],
-    reply: '🎙️ Episodio 1 — [Conduciendo a Japon]\n👉 https://youtu.be/u6fBB4MpIE4?si=y2TJO2k5mF9rbtu4',
+    reply: '🎙️ [Conduciendo a Japon]\n👉 https://youtu.be/u6fBB4MpIE4?si=y2TJO2k5mF9rbtu4',
   },
   {
     keywords: ['episodio 2', 'ep2', 'segundo episodio'],
