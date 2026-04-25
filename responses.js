@@ -4,6 +4,10 @@
 
 const responses = [
   // 🎙️ PODCASTS — agrega tantos episodios como quieras
+    {
+    keywords: ['episodio1', 'ep1', 'primer episodio'],
+    reply: '🎙️ Episodio 1 — [Título del episodio]\n👉 https://tupodcast.com/episodio-1',
+  },
   {
     keywords: ['podcast', 'episodio', 'audio', 'escuchar', 'programa'],
     reply:
