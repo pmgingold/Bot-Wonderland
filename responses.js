@@ -19,7 +19,7 @@ const responses = [
   },
  
     {
-    keywords: ['Marce','marce'],
+    keywords: ['japon','japon'],
     reply: '🎙️ [Conduciendo a Japon]\n👉 https://youtu.be/u6fBB4MpIE4?si=y2TJO2k5mF9rbtu4',
   },
   {
